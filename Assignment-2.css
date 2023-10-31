@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.co{
+    height:700px;
+    width: 100%;
+}
+.container{
+ 
+   height: 100%;
+   width: 100%;
+   background-image: url('photo-1539667468225-eebb663053e6.avif');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: top right;
+   position: absolute;
+  
+}
+.hp{
+    color: white; 
+    margin-left: 15px;
+    font-family: 'Alkalami', serif;
+    font-family: 'Festive', cursive;
+    font-family: 'M PLUS 2', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 2px;
+    
+}
+.hp:hover{
+    text-shadow: 2px 2px 4px black;
+}
+.navbar a{
+   
+    text-decoration: none;
+    position: relative;
+    left: 1050px;
+    color: white;
+    padding: 10px;
+    bottom: 40px;
+    font-size: 15px;
+}
+.n{
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.navbar a:hover{
+    background-color: darkturquoise;
+    border-radius: 20px;
+}
+.intro{
+  text-align: center;
+ position: relative;
+ top: 200px;
+ color: white;
+}
+.p1{
+  font-style: italic;
+  font-size: 30px;
+}
+.p1:hover{
+    text-shadow: 2px 2px 4px black;
+}
+.p2{
+   background-color:  darkturquoise;
+   border-radius: 20px;
+   height: 20px;
+   width: 150px;
+   padding: 10px;
+   text-align: center;
+   margin: 0 auto;
+   letter-spacing: 2px;
+}
+
+.hh{
+   letter-spacing: 2px; 
+   font-size: 40px;
+}
+.hh:hover{
+    text-shadow: 2px 2px 5px white;
+}
+.p2:hover{
+    box-shadow: 2px 2px 5px white;
+}
+.section{
+    height: 800px;
+    width: 100%;
+    position: absolute;
+}
+.middle-info{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    height: 200px;
+    width: 70%;
+   
+    margin: 0 auto;
+   
+}
+.h2{
+    font-size: 25px;
+    font-family: 'Alkalami', serif;
+    font-family: 'Festive', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'M PLUS 2', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 2px;
+    position: absolute;
+    margin-left: 120px;
+   
+}
+.h2:hover{
+    text-shadow: 2px 2px 4px black;
+}
+.p3{
+    height: 100px;
+    width: 70%;
+    text-align: center;
+    position: relative;
+    top: 80px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+.p3:hover{
+    text-shadow: 2px 2px 4px black;
+}
+.p4{
+    text-align: center;
+    position: relative;
+    top: 80px;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+}
+.p4:hover{
+    text-shadow: 2px 2px 4px black;
+}
+
+.pic{
+    height: 600px;
+    width: 100%;
+   
+    margin-top: 130px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+}
+
+.im{
+    width: 80%;
+    height: 300px;
+    padding: 45px;
+
+}
+.im1{
+    width: 80%;
+    height: 300px;
+    padding: 45px;
+
+}
+.about{
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Alkalami', serif;
+    font-family: 'Festive', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'M PLUS 2', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Playfair Display', serif;
+}
+.about:hover{
+    text-shadow: 2px 2px 4px black;
+}
+.find{
+    text-align: center;
+    
+}
+.find:hover{
+    text-shadow: 2px 2px 4px black;
+}
+.le{
+    text-align: center;
+    color: blue;
+    font-weight: bolder;
+}
+.le:hover{
+    text-shadow: 2px 2px 4px black;
+}
+
+.im:hover{
+    box-shadow: 1px 1px 3px black;
+}
+.im1:hover{
+    box-shadow: 1px 1px 3px black;
+}
+.ft{
+   height: 300px;
+   width: 100%;
+   background-color: rgb(45, 44, 44);
+   margin-top: 800px;
+   position: absolute;
+}
+.ft1{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(75, 81, 79);
+    
+}
+.ft2{
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Alkalami', serif;
+    font-family: 'Festive', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'M PLUS 2', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    word-spacing: 5px;
+}
+.po{
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+.fa-square-twitter{
+    font-size: 30px;
+    color: white;
+   
+}
+.fa-instagram{
+    font-size: 30px;
+    color: white;
+   
+}
+.fa-square-facebook{
+    font-size: 30px;
+    color: white;
+   
+}
+.fa-youtube{
+    font-size: 30px;
+    color: white;
+   
+}
+
+.ft1{
+    
+    text-align: center;
+     
+ }
+ .ft1>i{
+     padding: 10px;
+     position: relative;
+     top: 45px;
+ 
+ }
+ 
+ .ft1>i:hover{
+    background-color: rgb(38, 134, 134);
+    border-radius: 10px;
+ }
